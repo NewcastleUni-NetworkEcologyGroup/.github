@@ -9,4 +9,4 @@ The Network Ecology Group at Newcastle University is an international team of re
   <img src="https://github.com/NewcastleUni-NetworkEcologyGroup/.github/blob/main/images/NEG_github.png" />
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?orgs=NewcastleUni-NetworkEcologyGroup)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=James-Kitson&orgs=NewcastleUni-NetworkEcologyGroup)
