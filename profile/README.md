@@ -9,7 +9,7 @@ The Network Ecology Group at Newcastle University is an international team of re
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/twitter/url/https/twitter.com/NCLNEG.svg?style=social&label=Follow%20%40NCLNEG)
+  <img src="https://img.shields.io/twitter/url/https/twitter.com/NCLNEG.svg?style=social&label=Follow%20%40NCLNEG)" />
 </p>
 
 <p align="center">
