@@ -9,9 +9,9 @@ The Network Ecology Group at Newcastle University is an international team of re
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/twitter/url/https/twitter.com/NCLNEG.svg?style=social&label=Follow%20%40NCLNEG)
+  <img src="https://img.shields.io/twitter/url/https/twitter.com/NCLNEG.svg?style=social&label=Follow%20%40NCLNEG)
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/RStudio-4285F4?style=plastic&logo=rstudio&logoColor=white" /><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" /><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white" /><img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/RStudio-4285F4?style=plastic&logo=rstudio&logoColor=white" /><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" /><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white" /><img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
 </p>
