@@ -11,7 +11,7 @@ The Network Ecology Group at Newcastle University is an international team of re
 
 <p align="center">
 
-![Total Repositories](https://img.shields.io/github/repo-count/NewcastleUni-NetworkEcologyGroup?style=flat-square) ![Total Stars](https://img.shields.io/github/stars/NewcastleUni-NetworkEcologyGroup?style=flat-square) ![Total Forks](https://img.shields.io/github/forks/NewcastleUni-NetworkEcologyGroup?style=flat-square) ![Total Contributors](https://img.shields.io/github/contributors/NewcastleUni-NetworkEcologyGroup?style=flat-square)
+![Total Repositories](https://img.shields.io/github/repo-count/NewcastleUni-NetworkEcologyGroup?style=flat-square) ![Total Stars](https://img.shields.io/github/stars/NewcastleUni-NetworkEcologyGroup?style=flat-square) ![Total Forks](https://img.shields.io/github/forks/NewcastleUni-NetworkEcologyGroup?style=flat-square) ![Total Contributors](https://img.shields.io/github/all-contributors/NewcastleUni-NetworkEcologyGroup?style=flat-square)
 
 </p>
 
