@@ -10,11 +10,15 @@ The Network Ecology Group at Newcastle University is an international team of re
 </p>
 
 <p align="center">
+
 ![Total Repositories](https://img.shields.io/github/repo-count/NewcastleUni-NetworkEcologyGroup?style=flat-square) ![Total Stars](https://img.shields.io/github/stars/NewcastleUni-NetworkEcologyGroup?style=flat-square) ![Total Forks](https://img.shields.io/github/forks/NewcastleUni-NetworkEcologyGroup?style=flat-square) ![Total Contributors](https://img.shields.io/github/contributors/NewcastleUni-NetworkEcologyGroup?style=flat-square)
+
 </p>
 
 <p align="center">
+
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 </p>
 
 <!DOCTYPE html>
