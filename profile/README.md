@@ -8,3 +8,5 @@ The Network Ecology Group at Newcastle University is an international team of re
 <p align="center">
   <img src="https://github.com/NewcastleUni-NetworkEcologyGroup/.github/blob/main/images/NEG_github.png" />
 </p>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?orgs=NewcastleUni-NetworkEcologyGroup)
