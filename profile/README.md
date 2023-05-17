@@ -7,9 +7,3 @@ The Network Ecology Group at Newcastle University is an international team of re
 <p align="center">
   <img src="https://github.com/NewcastleUni-NetworkEcologyGroup/.github/blob/main/images/NEG_github.png" />
 </p>
-
-
-
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/RStudio-4285F4?style=plastic&logo=rstudio&logoColor=white" /><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" /><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white" /><img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
-</p> -->
