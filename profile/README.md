@@ -1,9 +1,7 @@
 # Network Ecology Group
 
+### Welcome to the Network Ecology Group GitHub repository!
 ---
-
-### Welcome to the Network Ecology Group GitHub repository
-
 Here we host repositories that act as supplementary material for published studies.
 
 <p align="center">
